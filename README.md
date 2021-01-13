@@ -3,7 +3,7 @@
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
 Learning logs:
-[January 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-January) |
+[January 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-January.md) |
 
 
 
