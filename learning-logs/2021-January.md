@@ -28,3 +28,12 @@
   - I veered away from using IDLE as I felt it didn't apply anywhere out of python. As I have previously worked with terminal and atom I opted to use these programs.
   - I ended up needing to Google and spot fix opening and running my python script in terminal. Using CD, quit(), etc.
   - Completeing the section with the creation of a simile Hello.py program; not dissimilar to the one I wrote in 2019. 
+  
+### Thursday, January 14, 2021
+- Downloaded Git and Homebrew
+  - Homebrew needed updated through terminal. 
+- Fully completed the initial changes and set-up on GitHub for my learning tracker. 
+  - Learnt about archiving and deleting repos
+  - Downloading master zips of repos before deleting
+  - Troubleshot URL links betweens files
+  - Learnt how to create folers, change the view (using .md at the end of a file) and other formatting tweaks. 
