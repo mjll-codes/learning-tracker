@@ -13,6 +13,8 @@ Skill | Level
 --- | ---
 HTML | :bulb:
 Python | :bulb:
+Git | :bulb:
+Git Hub | :bulb:
 <!---CSS |
 JavaScript |
 Bootstrap |
