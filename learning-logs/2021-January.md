@@ -21,19 +21,21 @@
   - Watched [Learn Git in 15 minutes by Colt Steele](https://www.youtube.com/watch?v=USjZcfj8yxE)
   - Watched [Learn GitHub in 20 minutes by Colt Steele](https://www.youtube.com/watch?v=nhNq2kIvi9s)
   - Read the GitHub introduction manual
-- I double-checked I still had Atom and Terminal and my rudimentary understanding of those programs hasn't been lost. 
-   
+- I double-checked I still had Atom and Terminal and my rudimentary understanding of those programs hasn't been lost.
+
 ### Wednesday, January 13, 2021
 - Began session 1 of Automate the Boring Stuff (ABS)
   - I veered away from using IDLE as I felt it didn't apply anywhere out of python. As I have previously worked with terminal and atom I opted to use these programs.
   - I ended up needing to Google and spot fix opening and running my python script in terminal. Using CD, quit(), etc.
-  - Completeing the section with the creation of a simile Hello.py program; not dissimilar to the one I wrote in 2019. 
-  
+  - Completeing the section with the creation of a simile Hello.py program; not dissimilar to the one I wrote in 2019.
+
 ### Thursday, January 14, 2021
 - Downloaded Git and Homebrew
-  - Homebrew needed updated through terminal. 
-- Fully completed the initial changes and set-up on GitHub for my learning tracker. 
+  - Homebrew needed updated through terminal.
+  - Made notes of various Git commands for future use and got additional info for command line
+- Fully completed the initial changes and set-up on GitHub for my learning tracker.
   - Learnt about archiving and deleting repos
   - Downloading master zips of repos before deleting
   - Troubleshot URL links betweens files
-  - Learnt how to create folers, change the view (using .md at the end of a file) and other formatting tweaks. 
+  - Learnt how to create folers, change the view (using .md at the end of a file) and other formatting tweaks.
+  - Set up SSH key on Git to avoid log in when using Git prompt on command line
