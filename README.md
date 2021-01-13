@@ -21,9 +21,6 @@ JavaScript |
 Bootstrap |
 Responsive Web Design |
 Web Accessibility |
-Command Line |
-Git |
-GitHub |
 PHP |
 WordPress Development |
 Agile Methodologies |--->
