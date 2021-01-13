@@ -27,7 +27,8 @@
 - Began session 1 of Automate the Boring Stuff (ABS)
   - I veered away from using IDLE as I felt it didn't apply anywhere out of python. As I have previously worked with terminal and atom I opted to use these programs.
   - I ended up needing to Google and spot fix opening and running my python script in terminal. Using CD, quit(), etc.
-  - Completeing the section with the creation of a simile Hello.py program; not dissimilar to the one I wrote in 2019.
+  - Completing the section with the creation of a simile Hello.py program; not dissimilar to the one I wrote in 2019.
+  - Explored HackTheBox and the process behind hacking the invite wall (decoding, using the console to search for MakeTheInvite, then googling reqbin decoder, then 64bit decoder, to find the 4x4x4x4 code.)
 
 ### Thursday, January 14, 2021
 - Downloaded Git and Homebrew
@@ -36,7 +37,7 @@
 - Fully completed the initial changes and set-up on GitHub for my learning tracker.
   - Learnt about archiving and deleting repos
   - Downloading master zips of repos before deleting
-  - Troubleshot URL links betweens files
+  - Troubleshot URL links between files
   - Learnt how to create folders, change the view (using .md at the end of a file) and other formatting tweaks.
   - Set up SSH key on Git to avoid log in when using Git prompt on command line
   - Learnt that .md stands for MarkDown - which is a mark up language. The reason this page looks so pretty!
