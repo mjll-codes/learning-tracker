@@ -15,6 +15,7 @@ HTML | :bulb:
 Python | :bulb:
 Git | :bulb:
 Git Hub | :bulb:
+Command Line | :bulb:
 <!---CSS |
 JavaScript |
 Bootstrap |
