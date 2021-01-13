@@ -37,5 +37,5 @@
   - Learnt about archiving and deleting repos
   - Downloading master zips of repos before deleting
   - Troubleshot URL links betweens files
-  - Learnt how to create folers, change the view (using .md at the end of a file) and other formatting tweaks.
+  - Learnt how to create folders, change the view (using .md at the end of a file) and other formatting tweaks.
   - Set up SSH key on Git to avoid log in when using Git prompt on command line
