@@ -3,7 +3,7 @@
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
 Learning logs:
-[January 2021](https://github.com/mjll-codes/learning-tracker/learning-logs/2021-January) |
+[January 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-January) |
 
 
 
@@ -32,7 +32,7 @@ Agile Methodologies |--->
 
 #### Automate the Boring Stuff with Python Programming
 
-- Creation of our first basic program, [hello.py](https://github.com/mjll-codes/learning-tracker/learning-outcomes/hello.py)
+- Creation of our first basic program, [hello.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/hello.py)
 
 <!---Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards.
 
