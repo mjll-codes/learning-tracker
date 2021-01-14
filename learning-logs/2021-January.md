@@ -5,14 +5,14 @@
 ### Objective
 - [x] Refresh python skills
 - [x] Learn more about automation using python
-- [ ] Become a GitHub user and learn basic GitHub skills
+- [x] Become a GitHub user and learn basic GitHub skills
 - [ ] Start two courses to aid in python upskilling
 - [ ] Finish at least one course
 
 ### Key Results
 - [ ] Begin [Learn Python 3 The Hard Way by Zed Shaw](https://shop.learncodethehardway.org/access/buy/9/) (...again).
 - [ ] Start & finish Udemy course [Automate the Boring Stuff with Python Programming by Al Sweigart](https://www.udemy.com/course/automate/).
-- [ ] Have a beginners understanding of GitHub (repos, forking, cloning, branches, pulls, etc). Quantified by being able to easily explain what each does and have used each feature at least once.
+- [x] Have a beginners understanding of GitHub (repos, forking, cloning, branches, pulls, etc). Quantified by being able to easily explain what each does and have used each feature at least once.
 
 ## Daily Logs
 
