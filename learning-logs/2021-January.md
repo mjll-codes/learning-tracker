@@ -41,3 +41,10 @@
   - Learnt how to create folders, change the view (using .md at the end of a file) and other formatting tweaks.
   - Set up SSH key on Git to avoid log in when using Git prompt on command line
   - Learnt that .md stands for MarkDown - which is a mark up language. The reason this page looks so pretty!
+  
+  ### Thursday, January 28, 2021
+  - Started MITx 6.00.1x - Introduction to Computer Science and Programming Using Python (via edx.org)
+    - Downloaded Anaconda Navigation, Spyder and Kite.
+    - Became acquainted with the above
+    - Obtained a copy of John V. Guttag - Introduction to Computation and Programming Using Python-The MIT Press (2021)
+      - Read the Preface, Introduction & Chapter 1
