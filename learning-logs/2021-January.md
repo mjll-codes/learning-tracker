@@ -69,3 +69,6 @@
     - Became acquainted with the above
     - Obtained a copy of John V. Guttag - Introduction to Computation and Programming Using Python-The MIT Press (2021)
       - Read the Preface, Introduction & Chapter 1
+    - Completed Introduction to Python - coursework and exercises
+    
+  TODAYS HOURS: 6
