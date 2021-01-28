@@ -20,20 +20,20 @@
 ### Readings
 - MIT 6.00.1x - Introduction to Computer Science and Programming Using Python
   - Introduction to Python
-    [] Chapter 1
-    [] Chapter 2.1-2.2			
+    - [] Chapter 1
+    - [] Chapter 2.1-2.2			
   - Core Elements of Programs	
-    [] Chapter 2.3.1, 2.4
-    [] Chapter 3.1-3.2
+    - [] Chapter 2.3.1, 2.4
+    - [] Chapter 3.1-3.2
   - Simple Algorithms
-    [] Chapter 3.3-3.5
+    - [] Chapter 3.3-3.5
   - Functions
-    [] Chapter 4.1-4.3, 4.5-4.6
+    - [] Chapter 4.1-4.3, 4.5-4.6
   - Tuples & Lists
-    [] Chapter 5.1 - 5.3.1
+    - [] Chapter 5.1 - 5.3.1
   - Dictionaries
-    [] Chapter 4.4
-    [] Chapter 5.6
+    - [] Chapter 4.4
+    - [] Chapter 5.6
 
 ## Daily Logs
 
