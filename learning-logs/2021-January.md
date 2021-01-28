@@ -43,7 +43,7 @@
   - Set up SSH key on Git to avoid log in when using Git prompt on command line
   - Learnt that .md stands for MarkDown - which is a mark up language. The reason this page looks so pretty!
   
-  ### Thursday, January 28, 2021
+### Thursday, January 28, 2021
   - Started MITx 6.00.1x - Introduction to Computer Science and Programming Using Python (via edx.org)
     - Downloaded Anaconda Navigation, Spyder and Kite.
     - Became acquainted with the above
