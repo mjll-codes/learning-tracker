@@ -20,8 +20,8 @@
 ### Readings
 - MIT 6.00.1x - Introduction to Computer Science and Programming Using Python
   - Introduction to Python
-    - [ ] Chapter 1
-    - [ ] Chapter 2.1-2.2			
+    - [x] Chapter 1
+    - [x] Chapter 2.1-2.2			
   - Core Elements of Programs	
     - [ ] Chapter 2.3.1, 2.4
     - [ ] Chapter 3.1-3.2
