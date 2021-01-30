@@ -72,3 +72,7 @@
     - Completed Introduction to Python - coursework and exercises
     
   TODAYS HOURS: 6
+
+### Saturday, January 30, 2021
+  - Continued the readings from MITx 6.00.1x
+    - Chapter 1, 2.1 - 2.2,
