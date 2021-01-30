@@ -23,7 +23,7 @@
     - [x] Chapter 1
     - [x] Chapter 2.1-2.2			
   - Core Elements of Programs	
-    - [ ] Chapter 2.3.1, 2.4
+    - [x] Chapter 2.3.1, 2.4
     - [ ] Chapter 3.1-3.2
   - Simple Algorithms
     - [ ] Chapter 3.3-3.5
@@ -75,4 +75,8 @@
 
 ### Saturday, January 30, 2021
   - Continued the readings from MITx 6.00.1x
-    - Chapter 1, 2.1 - 2.2,
+    - Chapter 1, 2.1 - 2.2, 2.3.1, 2.4.
+    - Worked on the birthday code, interger code and cubed coding from within the chapters.
+      - Did some debuging, errors, infinite enumeration, etc
+      
+TODAYS HOURS: 2
