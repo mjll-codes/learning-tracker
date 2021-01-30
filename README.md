@@ -100,14 +100,17 @@ Course project: Web Design for Everybody Capstone
 
 - [X] Automate the Boring Stuff with Python Programming by Al Sweigart (See [course description](https://www.udemy.com/course/automate/))
 
+### edX
+
+- [x] MITx 6.00.1x - Introduction to Computer Science and Programming Using Python (See [course description](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 ## Resources
 
 ### Online Courses
 <!---
 - [Coursera](https://www.coursera.org)
-- [edX](https://www.edx.org)
 - [Udacity](https://www.udacity.com)--->
+- [edX](https://www.edx.org)
 - [Udemy](https://www.udemy.com)
 
 ### Books
