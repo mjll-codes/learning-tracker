@@ -102,7 +102,7 @@ Course project: Web Design for Everybody Capstone
 
 ### edX
 
-- [x] MITx 6.00.1x - Introduction to Computer Science and Programming Using Python (See [course description](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+- [x] MITx 6.00.1x - Introduction to Computer Science and Programming Using Python (See [course description](https://www.edx.org/course/introduction-to-computer-science-and-programming-7))
 
 ## Resources
 
