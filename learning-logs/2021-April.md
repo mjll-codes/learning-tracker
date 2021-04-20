@@ -20,12 +20,12 @@
   - [hello.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/hello.py)
   - [Alice.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/Alice.py)
   - [else-example.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/else-example.py)
-  - [if-else-example.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/if-else-example.py)
+  - [if-else-example.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/if-elif-example.py)
   - [while-example.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/while-example.py)
   - [YourName.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/YourName.py)
-  - [YourName-break.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/YourName-break.py)
+  - [YourName-break.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/YourName-Break.py)
   - [continue-example.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/continue-example.py)
-  - [fivestimes.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/fivestimes.py)
+  - [fivestimes.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/fivetimes.py)
   - [total.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/total.py)
 
 ## Daily Logs
