@@ -17,10 +17,12 @@
 
 ### Readings
 - Udemy assignments:
+  - hello.py
 
 ## Daily Logs
   
 ### Tuesday, April 21, 2021
+  - Completed the First Program task, hello.py, for the 100th time - committed to the process!
   - 
     
   TODAYS HOURS: 
