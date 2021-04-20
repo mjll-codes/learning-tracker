@@ -17,7 +17,7 @@
 
 ### Readings
 - Udemy assignments:
-  - hello.py
+  - [hello.py](https://www.github.com/mjll-codes/learning-tracker/learning-logs/hello.py)
 
 ## Daily Logs
   
