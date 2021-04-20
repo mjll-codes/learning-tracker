@@ -1,15 +1,22 @@
-# This program says hello and asks for my name
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 21 07:13:36 2021
 
-print('Hello world!')
-print('What is your name?') # ask for their name
+@author: madisonjliddell
+"""
+
+# This program says hello and asks my name
+
+
+print("Hello, what is your name?")
 myName = input()
-print('It is nice to meet you, ' + myName)
-print('The length of your name is:')
-print('Your name is ' + str(len(myName)) + ' letters long.')
 
-print('What is your age?') # ask for their age
+print("Hello", myName, "!")
+print("The length of your name is: ")
+print(len(myName))
+
+print("What is your age?")
 myAge = input()
-print('You will be ' + str(int(myAge) + 1) + ' in a year.')
 
-print('Do you want to know how old you will be in 2121?')
-print((int(str(myAge))) + 1000)
+print("You will be", str(int(myAge) +1), "next year!")
