@@ -5,6 +5,7 @@ Tracking my technical skills, my coding projects, my course work, and helpful re
 Learning logs:
 [January 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-January.md) |
 [February 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-February.md) |
+[April 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-April.md) |
 
 
 
