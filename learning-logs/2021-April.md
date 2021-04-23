@@ -27,10 +27,11 @@
   - [continue-example.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/continue-example.py)
   - [fivetimes.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/fivetimes.py)
   - [total.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/total.py)
+  - [sysexit.py]
 
 ## Daily Logs
   
-### Tuesday, April 21, 2021
+### Wednesday, April 21, 2021
   - Completed the First Program task, hello.py, for the 100th time - committed to the process!
   - Explored if-statements, see assignment Alice.py
   - Explored else and elif statements, see else-example.py & if-elif-examlpe.py
@@ -40,5 +41,10 @@
   - Explored continue statements (as a sort of skip function), see continue-example.py
   - Explored For Loops, see fivetimes.py & total.py
     
-  TODAYS HOURS: 
-
+  TODAYS HOURS: 2 hours
+  
+### Friday, April 23, 2021
+  - Explored import, sys.exit and played with random.int a little - see sysexit.py
+  - Had to figure out how to download pip on py3.6 
+    
+  TODAYS HOURS: xx hours
