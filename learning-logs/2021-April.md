@@ -47,4 +47,4 @@
   - Explored import, sys.exit and played with random.int a little - see sysexit.py
   - Had to figure out how to download pip on py3.6 
     
-  TODAYS HOURS: xx hours
+  TODAYS HOURS: 3 hours
