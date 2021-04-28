@@ -43,8 +43,15 @@
     
   TODAYS HOURS: 2 hours
   
+  
 ### Friday, April 23, 2021
   - Explored import, sys.exit and played with random.int a little - see sysexit.py
-  - Had to figure out how to download pip on py3.6 
+  - Had to figure out how to download pip on py3.6. Ended up having to remove conda, kite and all python programs; then reinstalling python3.9. Assisted by TL.
     
   TODAYS HOURS: 3 hours
+  
+  
+### Wednesday, April 28, 2021
+  - Had to install pyperclip, and troubleshoot various issues with running pyperclip in terminal v IDLE, etc.
+    
+  TODAYS HOURS: 45 min
