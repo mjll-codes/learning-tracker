@@ -3,7 +3,7 @@
 ## Objectives and Key Results
 
 ### Objective
-- [ ] Start FreeCodeCamp (Responsive Web Design)
+- [ ] Start FreeCodeCamp (FCC) (Responsive Web Design)
 - [ ] Update log as I learn
 - [ ] Stay commited until the end of the month
 - [ ] Do additional research into web dev
@@ -16,7 +16,7 @@
 ## Coursework Milestones
 
 ### Assignments:
-- Udemy:
+- FCC:
   - [hello.py](https://github.com/mjll-codes/learning-tracker/blob/main/learning-outcomes/hello.py)
   -
 
