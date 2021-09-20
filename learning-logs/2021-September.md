@@ -18,6 +18,7 @@
 ### Assignments:
 - FCC:
   - Basic HTML & HTML 5 completed
+  - Basic CSS completed
 
 ## Daily Logs
   
@@ -25,7 +26,7 @@
   - Added/updated September Page, started Freecodecamp.
   - Began Responsive Web Design:
     - Basic HTML & HTML 5 completed
-    - CSS basics began
+    - CSS basics completed
     
   TODAYS HOURS: 1hr 21mins + time from new timer
  
