@@ -27,6 +27,6 @@
   - Began Responsive Web Design:
     - Basic HTML & HTML 5 completed
     - CSS basics completed
+    - 15% into Applied Visual Design
     
-  TODAYS HOURS: 1hr 21mins + time from new timer
- 
+  TODAYS HOURS: 2hr 33mins 
