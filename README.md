@@ -107,6 +107,10 @@ Course project: Web Design for Everybody Capstone
 
 - [x] MITx 6.00.1x - Introduction to Computer Science and Programming Using Python (See [course description](https://www.edx.org/course/introduction-to-computer-science-and-programming-7))
 
+### FreeCodeCamp
+
+- [X] Responsive Web Design (See [course description](https://www.freecodecamp.org/learn/responsive-web-design))
+
 ## Resources
 
 ### Online Courses
@@ -115,6 +119,7 @@ Course project: Web Design for Everybody Capstone
 - [Udacity](https://www.udacity.com)--->
 - [edX](https://www.edx.org)
 - [Udemy](https://www.udemy.com)
+- [FreeCodeCamp](ttps://www.freecodecamp.com)
 
 ### Books
 
