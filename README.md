@@ -119,7 +119,7 @@ Course project: Web Design for Everybody Capstone
 - [Udacity](https://www.udacity.com)--->
 - [edX](https://www.edx.org)
 - [Udemy](https://www.udemy.com)
-- [FreeCodeCamp](ttps://www.freecodecamp.com)
+- [FreeCodeCamp](https://www.freecodecamp.com)
 
 ### Books
 
