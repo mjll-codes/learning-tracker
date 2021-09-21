@@ -16,9 +16,9 @@
 ## Coursework Milestones
 
 ### Assignments:
-- FCC:
-  - Basic HTML & HTML 5 completed
-  - Basic CSS completed
+- FCC - Completed course sections:
+  - Basic HTML & HTML 5
+  - Basic CSS
   - Applied Visual Design - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/applied-visual-design)
 
 ## Daily Logs
@@ -30,10 +30,11 @@
     - CSS basics completed
     - 15% into Applied Visual Design
     
-  TODAYS HOURS: 2hr 33mins 
+  TODAYS HOURS: 2hrs 33mins 
   
 ### Tuesday, September 21, 2021
   - Finished Applied Visual Design
   - Arranged a code dump for all completed exercises 
+  - 25% into Applied Accessibility 
     
-  TODAYS HOURS: +5min
+  TODAYS HOURS: 2hrs 5min
