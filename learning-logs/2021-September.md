@@ -19,7 +19,7 @@
 - FCC:
   - Basic HTML & HTML 5 completed
   - Basic CSS completed
-  - Applied Visual Desigh [See code dump here](https://www.github.com/mjll-codes/learning-tracker/code-dump/applied-visual-design
+  - Applied Visual Desigh [See code dump here](https://www.github.com/mjll-codes/learning-tracker/code-dump/applied-visual-design)
 
 ## Daily Logs
   
