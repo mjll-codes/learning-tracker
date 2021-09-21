@@ -19,6 +19,7 @@
 - FCC:
   - Basic HTML & HTML 5 completed
   - Basic CSS completed
+  - Applied Visual Desigh [See code dump here](https://www.github.com/mjll-codes/learning-tracker/code-dump/applied-visual-design
 
 ## Daily Logs
   
@@ -30,3 +31,9 @@
     - 15% into Applied Visual Design
     
   TODAYS HOURS: 2hr 33mins 
+  
+### Tuesday, September 21, 2021
+  - Finished Applied Visual Design
+  - Arranged a code dump for all completed exercises 
+    
+  TODAYS HOURS: +5min
