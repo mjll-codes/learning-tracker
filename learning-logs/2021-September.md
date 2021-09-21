@@ -12,6 +12,7 @@
 - [X] Start [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/).
 - [ ] Look at Udemy course [Automate the Boring Stuff with Python Programming by Al Sweigart](https://www.udemy.com/course/automate/) again.
 - [ ] Stay consistent - 1hr everday minimum - from 20th of September to 30 September, logged below.
+- [ ] Finish Responsive Web Design - a hopeful goal. 
 
 ## Coursework Milestones
 
