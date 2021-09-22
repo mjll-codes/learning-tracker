@@ -21,6 +21,9 @@
   - Basic HTML & HTML 5
   - Basic CSS
   - Applied Visual Design - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/applied-visual-design)
+  - Applied Accessibility - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/applied-accessibility)
+  - Responsive Web Design Principles - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/responsive-web-design-principles)
+  - CSS Flexbox - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/css-flex-box)
 
 ## Daily Logs
   
@@ -39,3 +42,12 @@
   - 25% into Applied Accessibility 
     
   TODAYS HOURS: 2hrs 5min
+  
+### Wednesday, September 22, 2021
+  - Finished Applied Accessibility
+  - Finished Responsive Web Design Principles
+  - Finished CSS Flexbox
+  - 41% into CSS Grid
+    
+  TODAYS HOURS: 1hr 42mins
+
