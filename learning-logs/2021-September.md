@@ -60,5 +60,5 @@
   - Finished CSS Grid
   - Finished Tribute Page Project
     
-  TODAYS HOURS: XXhr XXmins
+  TODAYS HOURS: 1hr 58mins
 
