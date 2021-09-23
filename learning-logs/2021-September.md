@@ -24,6 +24,11 @@
   - Applied Accessibility - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/applied-accessibility)
   - Responsive Web Design Principles - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/responsive-web-design-principles)
   - CSS Flexbox - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/css-flex-box)
+  - CSS Grid - See code dump [here](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/css-grid)
+
+### Projects:
+- HTML/CSS:
+  - [Tribute Page](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/tribute-page.html)
 
 ## Daily Logs
   
@@ -50,4 +55,10 @@
   - 41% into CSS Grid
     
   TODAYS HOURS: 1hr 42mins
+  
+### Thursday, September 23, 2021
+  - Finished CSS Grid
+  - Finished Tribute Page Project
+    
+  TODAYS HOURS: XXhr XXmins
 
