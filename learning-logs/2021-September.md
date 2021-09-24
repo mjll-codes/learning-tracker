@@ -66,6 +66,6 @@
 ### Friday, September 24, 2021
   - Finished Survey Page
   - Need to spend some time finding the errors in the code for both projects. Using this tester: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
-  - Identifying issues raised in code, corrected using sample code (as above)
+  - Identified issues raised in code, corrected using sample code solutions
     
-  TODAYS HOURS: 1hr 46mins (+5mins)
+  TODAYS HOURS: 2hr 13mins
