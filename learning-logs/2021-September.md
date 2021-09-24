@@ -29,6 +29,7 @@
 ### Projects:
 - HTML/CSS:
   - [Tribute Page](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/tribute-page.html)
+  - [Survey Page](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/survey-page.html)
 
 ## Daily Logs
   
@@ -62,3 +63,8 @@
     
   TODAYS HOURS: 1hr 58mins
 
+### Friday, September 24, 2021
+  - Finished Survey Page
+  - Need to spend some time finding the errors in the code for both projects. Using this tester: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+    
+  TODAYS HOURS: 1hr 46mins
