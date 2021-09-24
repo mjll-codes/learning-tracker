@@ -58,7 +58,7 @@ form {
            required
            /> <br>
   
-  <label id="age-label" for="age"> Age: </label>
+  <label id="number-label" for="age"> Age: </label>
   <span class="age-span" </span>
     <input
            type="number"
@@ -81,11 +81,11 @@ form {
       </select>
     </div>
   
-<div class="radio-buttons">
-  <p> How did you hear about me? </p>
+<div class="form-group">
+  <p>How did you hear about me? </p>
     <label>
       <input
-      name="online"
+      name="radio-group"
       type="radio"
       value="online"
       checked
@@ -94,22 +94,22 @@ form {
   
     <label>
       <input
-      name="Friend"
+      name="radio-group"
       type="radio"
-      value="maybe"
+      value="Friend"
       class="input-radio">
       Friend</label> <br>
   
    <label>
       <input
-      name="Word of Mouth"
+      name="radio-group"
       type="radio"
       value="WOM"
       class="input-radio">
       Word of Mouth</label>
   </div>
   
-  <div class="checkbox">
+  <div class="form-group">
   <p> What content would you like be updated on? </p>
     <label>
       <input
@@ -149,9 +149,9 @@ form {
                 ></textarea>
       </div>
     <button 
-            type="Submit"
-            id="Submit"
-            >Submit</submit>
+            type="submit"
+            id="submit"
+            >Submit</button>
   </div>
 </form>
 </div>
