@@ -1,0 +1,157 @@
+<style>
+  h1 {
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+  font-weight: 400;
+}
+
+p {
+  font-weight: 100;
+  color: black;
+  font-style: italic;
+  text-align: center;
+}
+
+body {
+  content:'';
+  position: auto;
+  background-size: cover;
+  background-image:
+    url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+}
+
+form {
+  text-align: center;
+}
+
+</style>
+
+<h1 
+    id="title"> 
+  Sign Up to my Newsletter today 
+</h1>
+
+<p id="description"> 
+  For the lastest news and updates of my learning 
+</p>
+
+<body>
+  
+</body>
+
+<form id="survey-form">
+  <label id="name-label" for="name"> Name: </label>
+    <input
+           type="text"
+           name="name"
+           id="name"
+           placeholder="Please enter your name"
+           required
+           /> <br>
+  <label id="email-label" for="email"> Email: </label>
+    <input
+           type="email"
+           name="name"
+           id="email"
+           placeholder="Please enter your email"
+           required
+           /> <br>
+  
+  <label id="age-label" for="age"> Age: </label>
+  <span class="age-span" </span>
+    <input
+           type="number"
+           name="age"
+           id="number"
+           min="10"
+           max="99"
+           placeholder="Optional"
+           /> <br>
+                  
+   <div class="form-group">
+      <p>How frequently do you want updates?</p>
+      <select id="dropdown" name="frequency" class="form-control" required>
+        <option disabled selected value>Select frequency</option>
+        <option value="daily">Daily</option>
+        <option value="weekly">Weekly</option>
+        <option value="fortnightly">Fortnightly</option>
+        <option value="Monthly">Monthly</option>
+        <option value="yearly">Yearly</option>
+      </select>
+    </div>
+  
+<div class="radio-buttons">
+  <p> How did you hear about me? </p>
+    <label>
+      <input
+      name="online"
+      type="radio"
+      value="online"
+      checked
+      class="input-radio"
+      >Online</label> <br>
+  
+    <label>
+      <input
+      name="Friend"
+      type="radio"
+      value="maybe"
+      class="input-radio">
+      Friend</label> <br>
+  
+   <label>
+      <input
+      name="Word of Mouth"
+      type="radio"
+      value="WOM"
+      class="input-radio">
+      Word of Mouth</label>
+  </div>
+  
+  <div class="checkbox">
+  <p> What content would you like be updated on? </p>
+    <label>
+      <input
+      name="Course Progress"
+      type="checkbox"
+      value="Course Progress"
+      checked
+      class="input-checkbox"
+      >Course Progress</label> <br>
+     
+    <label>
+      <input
+      name="Projects"
+      type="checkbox"
+      value="Projects"
+      checked
+      class="input-checkbox"
+      >Projects</label> <br>
+    
+     <label>
+      <input
+      name="Commits"
+      type="checkbox"
+      value="Commits"
+      checked
+      class="input-checkbox"
+      >Commits</label> <br>
+  </div>
+  <div class="text-feedback">
+    <p> Do you have any additional feedback? </p>
+    <label>
+      <textarea
+                id="feedback"
+          name="Text-Feedback"
+          type="text-box"
+                placeholder="Add your feedback here"
+                ></textarea>
+      </div>
+    <button 
+            type="Submit"
+            id="Submit"
+            >Submit</submit>
+  </div>
+</form>
+</div>
