@@ -70,11 +70,11 @@
   - Need to spend some time finding the errors in the code for both projects. Using this tester: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
   - Identified issues raised in code, corrected using sample code solutions
     
-  TODAYS HOURS: 2hr 57mins
+  TODAYS HOURS: 2hr 13mins
   
 ### Saturday, September 25, 2021
   - Finished Product Landing Page
   - Finished Technical Documentation Page
     - TO DO: Upskill more on CSS styling (specifically box and grid creation IRL situations)
     
-  TODAYS HOURS: 2hrs 17mins
+  TODAYS HOURS: 2hrs 57mins
