@@ -28,9 +28,10 @@
 
 ### Projects:
 - HTML/CSS:
-  - [Tribute Page](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/tribute-page.html) - [view on CodePen here](https://codepen.io/mjll-codes/pen/bGRjZyJ)
-  - [Survey Page](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/survey-page.html) - [view on CodePen here](https://codepen.io/mjll-codes/pen/XWgPYyo)
-
+  - Tribute Page- [view on CodePen here](https://codepen.io/mjll-codes/pen/bGRjZyJ)
+  - Survey Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/XWgPYyo)
+  - Product Landing Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/xxraJWV)
+  
 ## Daily Logs
   
 ### Monday, September 20, 2021
@@ -69,3 +70,8 @@
   - Identified issues raised in code, corrected using sample code solutions
     
   TODAYS HOURS: 2hr 13mins
+  
+### Saturday, September 25, 2021
+  - Finished Product Landing Page
+    
+  TODAYS HOURS: 2hrs 17mins
