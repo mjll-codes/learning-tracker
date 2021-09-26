@@ -35,7 +35,7 @@
   - Personal Portfolio Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/dyRgxGW) 
 
 ### Certifications:
-- FCC: Respinsive Web Design - [see certification here](https://www.freecodecamp.org/certification/mjll/responsive-web-design)
+- FCC: Responsive Web Design - [see certification here](https://www.freecodecamp.org/certification/mjll/responsive-web-design)
   
 ## Daily Logs
   
