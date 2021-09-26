@@ -12,7 +12,7 @@
 - [X] Start [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/).
 - [ ] Look at Udemy course [Automate the Boring Stuff with Python Programming by Al Sweigart](https://www.udemy.com/course/automate/) again.
 - [ ] Stay consistent - 1hr everday minimum - from 20th of September to 30 September, logged below.
-- [ ] Finish Responsive Web Design - a hopeful goal. 
+- [x] Finish Responsive Web Design - a hopeful goal. 
 
 ## Coursework Milestones
 
@@ -32,6 +32,10 @@
   - Survey Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/XWgPYyo)
   - Product Landing Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/xxraJWV)
   - Technical Documentation Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/jOweGPr) (CSS styling borrowed from sample, more upskilling required)
+  - Personal Portfolio Page - [view on CodePen here](https://codepen.io/mjll-codes/pen/dyRgxGW) 
+
+### Certifications:
+- FCC: Respinsive Web Design - [see certification here](https://www.freecodecamp.org/certification/mjll/responsive-web-design)
   
 ## Daily Logs
   
@@ -76,5 +80,15 @@
   - Finished Product Landing Page
   - Finished Technical Documentation Page
     - TO DO: Upskill more on CSS styling (specifically box and grid creation IRL situations)
+  - Watched some additional YouTube videos around CSS: [nav bar creation](https://youtu.be/PwWHL3RyQgk), [sidebar creation](https://youtu.be/wEfaoAa99XY) and [login animation](https://youtu.be/HV7DtH3J2PU)
     
   TODAYS HOURS: 2hrs 57mins
+
+### Sunday, September 26, 2021
+  - Updated yesterday's log with the YT videos
+  - Discovered [flatuicolors.com](https://flatuicolors.com/) for CSS styling
+  - Finished Personal Profile Page (though I will revisit and spend sometime cleaning up the styling)
+  - Completed the Responsive Web Design course on FCC and got certified
+  - TO DO: Amend styling on profile page, do further study on media queries and container styling
+    
+  TODAYS HOURS: 2hrs 21mins
