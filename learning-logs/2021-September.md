@@ -92,3 +92,10 @@
   - TO DO: Amend styling on profile page, do further study on media queries and container styling
     
   TODAYS HOURS: 2hrs 21mins
+  
+### Monday, September 27, 2021
+  - Using w3schools CSS modules I was able to research and correct the styling issues from yesterday - see Personal Portfolio Page. 
+  - I feel as if I have a better handle on CSS and how the styling wokrs together. My confidence is minimal but I feel like with more practice I will get there.
+  - Work was very busy this afternoon leaving me less time to spend on this than I'd like. 
+    
+  TODAYS HOURS:  1 hour
