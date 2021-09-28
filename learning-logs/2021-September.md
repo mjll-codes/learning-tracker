@@ -99,3 +99,8 @@
   - Work was very busy this afternoon leaving me less time to spend on this than I'd like. 
     
   TODAYS HOURS:  1 hour
+  
+### Tuesday, September 28, 2021
+  - Started JavaScript Algorithms and Data Structures
+    
+  TODAYS HOURS:   hour
