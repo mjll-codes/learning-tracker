@@ -102,5 +102,6 @@
   
 ### Tuesday, September 28, 2021
   - Started JavaScript Algorithms and Data Structures
+    - 40% into Basic Javascript
     
-  TODAYS HOURS:   hour
+  TODAYS HOURS:   1hour 1 mins
