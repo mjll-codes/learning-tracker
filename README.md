@@ -16,15 +16,16 @@ Skill | Level
 --- | ---
 HTML | :bulb: :bulb: 
 CSS | :bulb: :bulb:
+Responsive Web Design | :bulb: :bulb:
+Web Accessibility | :bulb: :bulb:
+JavaScript | :bulb:
 Python | :bulb:
 Git | :bulb:
 Git Hub | :bulb:
 Command Line | :bulb:
 MarkDown | :bulb:
 <!---CSS |
-JavaScript |
 Bootstrap |
-Responsive Web Design |
 Web Accessibility |
 PHP |
 WordPress Development |
