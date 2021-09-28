@@ -14,8 +14,8 @@ Learning logs:
 
 Skill | Level
 --- | ---
-HTML/HTML5 | :bulb:
-CSS | :bulb:
+HTML/HTML5 | :bulb: :bulb: 
+CSS | :bulb: :bulb:
 Python | :bulb:
 Git | :bulb:
 Git Hub | :bulb:
