@@ -105,3 +105,11 @@
     - 40% into Basic Javascript
     
   TODAYS HOURS:   1hour 1 mins
+  
+### Wednesday, September 29, 2021
+  - Continued JavaScript Algorithms and Data Structures
+    - 66% into Basic Javascript
+    - The exercises are getting harder and are similar to Python. Data structures aren't unfamiliar so that is helping.
+    - Made small mistakes when creating if else lists, like using assignment =, instead of comparative ==; took me way too long to figure it out.
+    
+  TODAYS HOURS:   1 hour  41 mins
