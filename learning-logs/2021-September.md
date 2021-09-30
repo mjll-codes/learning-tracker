@@ -126,7 +126,7 @@
     Switch & Case | Minor typos, missing close brace, etc
     Switch & Case | Used a semicolon after a 'case' statement instead of a colon
     Boolean values | Misread the sample data
-    Boolean values | 'Undefined' doesn't go in a string; didn't use the OR (pipes) function attempted to streamline with 'abTest < 0' instead of 'a < 0 <insert pipes> b < 0'; forgot to use curly braces to open 'if' statement
+    Boolean values | 'Undefined' doesn't go in a string; didn't use the OR (pipes) function attempted to streamline with 'abTest < 0' instead of 'a < 0 II b < 0'; forgot to use curly braces to open 'if' statement
     Card Counting Project | Got the format totally wrong, this was [my solution](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/cc.js)
     
     
