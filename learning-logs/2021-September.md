@@ -116,8 +116,9 @@
 
 ### Thursday, September 30, 2021
   - Continued JavaScript Algorithms and Data Structures
-    - XX% into Basic Javascript
+    - 72% into Basic Javascript
   - When creating the card counting game, I thought my code would also work - though it's hard to tell when the only solution was theirs. They used Switch & Case which I should have guessed and found slightly less intuitive.
+    
     
     Subject | Mistake
     --- | ---
@@ -131,4 +132,5 @@
     
     
     
-  TODAYS HOURS:   1 hour  23 mins
+ 
+ TODAYS HOURS:   1 hour  23 mins
