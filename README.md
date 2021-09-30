@@ -7,6 +7,7 @@ Learning logs:
 [February 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-February.md) |
 [April 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-April.md) |
 [September 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-September.md) |
+[October 2021](https://github.com/mjll-codes/learning-tracker/blob/main/learning-logs/2021-October.md) |
 
 
 
