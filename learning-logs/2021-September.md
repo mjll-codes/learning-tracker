@@ -4,14 +4,14 @@
 
 ### Objective
 - [X] Start FreeCodeCamp (FCC) (Responsive Web Design)
-- [ ] Update log as I learn
-- [ ] Stay commited until the end of the month
-- [ ] Do additional research into web dev
+- [X] Update log as I learn
+- [X] Stay commited until the end of the month
+- [X] Do additional research into web dev
 
 ### Key Results
 - [X] Start [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/).
 - [ ] Look at Udemy course [Automate the Boring Stuff with Python Programming by Al Sweigart](https://www.udemy.com/course/automate/) again.
-- [ ] Stay consistent - 1hr everday minimum - from 20th of September to 30 September, logged below.
+- [X] Stay consistent - 1hr everday minimum - from 20th of September to 30 September, logged below.
 - [x] Finish Responsive Web Design - a hopeful goal. 
 
 ## Coursework Milestones
