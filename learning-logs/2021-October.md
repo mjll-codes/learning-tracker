@@ -11,7 +11,7 @@
 ### Key Results
 - [ ] Finish [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).
 - [ ] Look at Udemy course [Automate the Boring Stuff with Python Programming by Al Sweigart](https://www.udemy.com/course/automate/) again.
-- [ ] Stay consistent - 1hr everday minimum - from 21st October to 31 October, logged below.
+- [ ] Stay consistent - 1hr everday minimum - from 1st October to 31 October, logged below.
 - [ ] Start [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/).
 
 ## Coursework Milestones
