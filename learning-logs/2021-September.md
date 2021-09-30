@@ -113,3 +113,22 @@
     - Made small mistakes when creating if else lists, like using assignment =, instead of comparative ==; took me way too long to figure it out.
     
   TODAYS HOURS:   1 hour  41 mins
+
+### Thursday, September 30, 2021
+  - Continued JavaScript Algorithms and Data Structures
+    - XX% into Basic Javascript
+  - When creating the card counting game, I thought my code would also work - though it's hard to tell when the only solution was theirs. They used Switch & Case which I should have guessed and found slightly less intuitive.
+    
+    Subject | Mistake
+    --- | ---
+    Switch & Case | Used 'console.log()' instead of 'answer =' for result
+    Switch & Case | Missed the 'break' statement after case & answer
+    Switch & Case | Minor typos, missing close brace, etc
+    Switch & Case | Used a semicolon after a 'case' statement instead of a colon
+    Boolean values | Misread the sample data
+    Boolean values | 'Undefined' doesn't go in a string; didn't use the '||' or function attempted to streamline with 'abTest < 0' instead of 'a < 0 || b < 0'; forgot to use curly braces to open 'if' statement
+    Card Counting Project | Got the format totally wrong, this was [my solution]((https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/cc.js)
+    
+    
+    
+  TODAYS HOURS:   1 hour  23 mins
