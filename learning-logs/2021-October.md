@@ -79,3 +79,13 @@
   - Notes from [LOOP section](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/FCC/JavaScript-LOOPS.js)
  
  TODAYS HOURS:   3 hours  42 mins 
+
+### Friday, October 1, 2021
+- Continued JavaScript Algorithms and Data Structures
+    - XX% into Basic Javascript
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+
+ TODAYS HOURS:    hours   mins 
