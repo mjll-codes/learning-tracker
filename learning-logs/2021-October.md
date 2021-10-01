@@ -80,7 +80,7 @@
  
  TODAYS HOURS:   3 hours  42 mins 
 
-### Friday, October 1, 2021
+### Saturday, October 2, 2021
 - Continued JavaScript Algorithms and Data Structures
     - XX% into Basic Javascript
 
