@@ -46,12 +46,14 @@
 - I'm feeling a little lost around what to call things, like, what reference do you use for sub markers like 'case', 'break', etc. Or is this something I will pick up slowly?
 - Is there not an easier way to get this result, I know this is an example, but I'd like to see an example where using this style of code would be the best option:
 
->var dogs = {
->  Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
->};
->var myDog = "Hunter";
->var myBreed = dogs[myDog];
->console.log(myBreed);
+code:
+  
+  > var dogs = {
+  > Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
+  > };
+  > var myDog = "Hunter";
+  > var myBreed = dogs[myDog];
+  > console.log(myBreed);
 
 - When completing another assignment, I don't understand the difference between my code and their solution code, when bracket and dot notations are supposed to be interchangeable. See [my code v solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/records.js).
 - Mistake tracker:
@@ -69,12 +71,12 @@
      
  For loops through an array code:
  
-    >var myArr = [ 2, 3, 4, 5, 6];
-    >var total = 0; // I didn't do this either, I used total instead of 'i' in the next line.
-    >for (var i = 0; i < myArr.length; i++) { // I did all these the same, just with total.
-    >total += myArr[i]; // Didn't know how to close with this, as we hadn't been shown that yet.
-    > }
-    > console.log(total); // I still don't know what console.log is all about, but they use it often.
+    var myArr = [ 2, 3, 4, 5, 6];
+    var total = 0; // I didn't do this either, I used total instead of 'i' in the next line.
+    for (var i = 0; i < myArr.length; i++) { // I did all these the same, just with total.
+    total += myArr[i]; // Didn't know how to close with this, as we hadn't been shown that yet.
+    }
+    console.log(total); // I still don't know what console.log is all about, but they use it often.
   
  
  TODAYS HOURS:   3 hours  27 mins 
