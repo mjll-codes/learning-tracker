@@ -46,14 +46,12 @@
 - I'm feeling a little lost around what to call things, like, what reference do you use for sub markers like 'case', 'break', etc. Or is this something I will pick up slowly?
 - Is there not an easier way to get this result, I know this is an example, but I'd like to see an example where using this style of code would be the best option:
 
-code:
-  
-  > var dogs = {
-  > Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
-  > };
-  > var myDog = "Hunter";
-  > var myBreed = dogs[myDog];
-  > console.log(myBreed);
+    <pre><code>  var dogs = {
+    Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
+    };
+    var myDog = "Hunter";
+    var myBreed = dogs[myDog];
+    Console.log(myBreed); </pre></code>
 
 - When completing another assignment, I don't understand the difference between my code and their solution code, when bracket and dot notations are supposed to be interchangeable. See [my code v solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/records.js).
 - Mistake tracker:
