@@ -41,22 +41,31 @@
   
 
 ### Friday, October 1, 2021
-<!--  - Continued JavaScript Algorithms and Data Structures
+- Continued JavaScript Algorithms and Data Structures
     - 72% into Basic Javascript
-  - When creating the card counting game, I thought my code would also work - though it's hard to tell when the only solution was theirs. They used Switch & Case which I should have guessed and found slightly less intuitive.
-    
+- I'm feeling a little lost around what to call things, like, what reference do you use for sub markers like 'case', 'break', etc. Or is this something I will pick up slowly?
+- Is there not an easier way to get this result, I know this is an example, but I'd like to see an example where using this style of code would be the best option:
+
+>var dogs = {
+>  Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
+>};
+>var myDog = "Hunter";
+>var myBreed = dogs[myDog];
+>console.log(myBreed);
+
+- When completing another assignment, I don't understand the difference between my code and their solution code, when bracket and dot notations are supposed ot be interchangable. See [my code v solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/records.js)
+- Mistake tracker:
     
     Subject | Mistake
     --- | ---
-    Switch & Case | Used 'console.log()' instead of 'answer =' for result
-    Switch & Case | Missed the 'break' statement after case & answer
-    Switch & Case | Minor typos, missing close brace, etc
-    Switch & Case | Used a semicolon after a 'case' statement instead of a colon
-    Boolean values | Misread the sample data
-    Boolean values | 'Undefined' doesn't go in a string; didn't use the 'II' function attempted to streamline with 'abTest < 0' instead of 'a < 0 II b < 0'; forgot to use curly braces to open 'if' statement
-    Card Counting Project | Got the format totally wrong, this was [my solution](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/cc.js)
+    Object| Typos, used the assigned value instead of the property name to access the property using dot notation. When
+    Object| Lookup: When used for look up, i didn't know to enter "result = lookup[val];" at the end - I misinterpreted these instructions "Use it to look up val and assign the associated string to the result variable."
+    Object| Checking for properties: When creating an object that checks for properties, I found that the example they provided didn't translate well into the answer they wanted and that caused various errors. I googled a little then watched the explanation video, where it finally made sense. 
+    Object| Arrays within objects: minor errors only, forgetting commas, etc
+    
+  
     
     
     
  
- TODAYS HOURS:   1 hour  26 mins -->
+ TODAYS HOURS:   XX hour  XX mins 
