@@ -76,5 +76,6 @@
     }
     console.log(total); // I still don't know what console.log is all about, but they use it often.
   
+  - Notes from [LOOP section](https://github.com/mjll-codes/learning-tracker/tree/main/code-dump/FCC/JavaScript-LOOPS.js)
  
- TODAYS HOURS:   3 hours  27 mins 
+ TODAYS HOURS:   3 hours  42 mins 
