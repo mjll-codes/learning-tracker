@@ -42,7 +42,7 @@
 
 ### Friday, October 1, 2021
 - Continued JavaScript Algorithms and Data Structures
-    - 72% into Basic Javascript
+    - 89% into Basic Javascript
 - I'm feeling a little lost around what to call things, like, what reference do you use for sub markers like 'case', 'break', etc. Or is this something I will pick up slowly?
 - Is there not an easier way to get this result, I know this is an example, but I'd like to see an example where using this style of code would be the best option:
 
@@ -53,7 +53,7 @@
 >var myBreed = dogs[myDog];
 >console.log(myBreed);
 
-- When completing another assignment, I don't understand the difference between my code and their solution code, when bracket and dot notations are supposed ot be interchangable. See [my code v solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/records.js)
+- When completing another assignment, I don't understand the difference between my code and their solution code, when bracket and dot notations are supposed to be interchangeable. See [my code v solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/records.js).
 - Mistake tracker:
     
     Subject | Mistake
@@ -62,10 +62,15 @@
     Object| Lookup: When used for look up, i didn't know to enter "result = lookup[val];" at the end - I misinterpreted these instructions "Use it to look up val and assign the associated string to the result variable."
     Object| Checking for properties: When creating an object that checks for properties, I found that the example they provided didn't translate well into the answer they wanted and that caused various errors. I googled a little then watched the explanation video, where it finally made sense. 
     Object| Arrays within objects: minor errors only, forgetting commas, etc
-    
-  
-    
-    
-    
+    Loops| While loops: minor typos
+    Loops| For loops: forgot 'for' curly braces; used commas instead of semicolons to separate the expressions inside the 'for' loop; minor typos;
+    Loops| For loops through an array: Another one where they asked us to write a type of code they've not shown us before. Errors for me were using () instead of [] in the below:
+    >var myArr = [ 2, 3, 4, 5, 6];
+    >var total = 0; // I didn't do this either, I used total instead of 'i' in the next line.
+    >for (var i = 0; i < myArr.length; i++) { // I did all these the same, just with total.
+    >total += myArr[i]; // Didn't know how to close with this, as we hadn't been shown that yet.
+    > }
+    > console.log(total); // I still don't know what console.log is all about, but they use it often.
+    Loops| Multiply multi-dimensional arrays: This one I did well, only made the error of using the 'multipleAll' name instead of the assigned 'arr' - very frustrating to find that as the error, but happy that i did so much of the rest right.
  
- TODAYS HOURS:   XX hour  XX mins 
+ TODAYS HOURS:   3 hours  27 mins 
