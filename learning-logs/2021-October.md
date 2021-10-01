@@ -64,13 +64,17 @@
     Object| Arrays within objects: minor errors only, forgetting commas, etc
     Loops| While loops: minor typos
     Loops| For loops: forgot 'for' curly braces; used commas instead of semicolons to separate the expressions inside the 'for' loop; minor typos;
-    Loops| For loops through an array: Another one where they asked us to write a type of code they've not shown us before. Errors for me were using () instead of [] in the below:
+    Loops| For loops through an array: Another one where they asked us to write a type of code they've not shown us before. Errors for me were using () instead of [] in the below
+      Loops| Multiply multi-dimensional arrays: This one I did well, only made the error of using the 'multipleAll' name instead of the assigned 'arr' - very frustrating to find that as the error, but happy that i did so much of the rest right.
+     
+ For loops through an array code:
+ 
     >var myArr = [ 2, 3, 4, 5, 6];
     >var total = 0; // I didn't do this either, I used total instead of 'i' in the next line.
     >for (var i = 0; i < myArr.length; i++) { // I did all these the same, just with total.
     >total += myArr[i]; // Didn't know how to close with this, as we hadn't been shown that yet.
     > }
     > console.log(total); // I still don't know what console.log is all about, but they use it often.
-    Loops| Multiply multi-dimensional arrays: This one I did well, only made the error of using the 'multipleAll' name instead of the assigned 'arr' - very frustrating to find that as the error, but happy that i did so much of the rest right.
+  
  
  TODAYS HOURS:   3 hours  27 mins 
