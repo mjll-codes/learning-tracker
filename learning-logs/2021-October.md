@@ -85,7 +85,7 @@
   - console.log is similar to print in py in that it outputs text to console, but apparently it also allows you to inspect an object?
   - Fixing Card Counting error in understanding: 
     -  Watched [Counting Cards, freeCodeCamp Basic Javascript](https://www.youtube.com/watch?v=zgs06k00YIE) to further understand what I missed when I created my own version. The video creater said you could use both switch and ifelse, which makes me think mine could have worked as well. He also had a ternary operator at the end, which was interesting and seemingly easier. 
-    - After further looking at the code, I deduced that it was likely the commas between the conditions causing the error. I googled how if statement's take on multiple conditions in a single function, then I remembered the OR operator, I was hoping I wouldn't have to use 'card' for every new condition, turns out I did, new code below that passed the test:
+    - After further looking at the code, I deduced that it was likely the commas between the conditions causing the error. I googled how if statement's take on multiple conditions in a single expression, then I remembered the OR operator, I was hoping I wouldn't have to use 'card' for every new condition, turns out I did, new code below that passed the test:
     <pre><code>var count = 0;
     function cc(card) {
     if (card == 2 || card == 3 || card == 4 || card == 5 || card == 6) {
@@ -120,7 +120,7 @@
       updateRecords(recordCollection, 5439, 'artist', 'ABBA');  </pre></code>
   - Did further research on loop recursion: good for when you don't know how many of something there are. Watched [Best Javascript Recursion Explanation on YouTube](https://www.youtube.com/watch?v=LteNqj4DFD8) on YouTube, who explained it well. I understoof how it worked on his example, but not how it works with mine - will go over with TL.
 - Continued JavaScript Algorithms and Data Structures
-    - XX% into Basic Javascript
+    - 95% into Basic Javascript
 
 - Mistake tracker:
 Subject | Mistake
@@ -128,5 +128,7 @@ Subject | Mistake
    Loops| Using recursion: So this one was interesting, I figured it out on my own, but don't feel entirely confidet about how. The example was a multiply, and ours was a sum; I knew to change the last line of code to a plus, then I had to alter the return function to 0 instead of the 1 from the example. That just felt right, but I can't explain why. [See example code, and solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/LoopRecursion.js)
    Profile Lookup| I had a go at this on my own but found myself lost and unsure of the right approach. It's not coming very organically to me atm, reading their instructions and creating code to mimic it. Though when it's explained in a video I get it, I just struggle to know what's the right approach. I watched [Profile Lookup - Free Code Camp](https://www.youtube.com/watch?v=CY57uiOsi-0) which was helpful because I was able to watch his thought process as he solved it. [Solution here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/Profile-Lookup.js).
    
+- Lessons with Tyson: 
+  - When looking through an array of objects, use a FOR loop as it allows you to use the 'i' to run through the index (i++). 
 
- TODAYS HOURS:    hours   mins 
+ TODAYS HOURS: 5 hours  33 mins 
