@@ -81,11 +81,52 @@
  TODAYS HOURS:   3 hours  42 mins 
 
 ### Saturday, October 2, 2021
+- Did some additional learning outside of FCC today, I YouTubed something's I was still unsure about:
+  - console.log is similar to print in py in that it outputs text to console, but apparently it also allows you to inspect an object?
+  - Fixing Card Counting error in understanding: 
+    -  Watched [Counting Cards, freeCodeCamp Basic Javascript](https://www.youtube.com/watch?v=zgs06k00YIE) to further understand what I missed when I created my own version. The video creater said you could use both switch and ifelse, which makes me think mine could have worked as well. He also had a ternary operator at the end, which was interesting and seemingly easier. 
+    - After further looking at the code, I deduced that it was likely the commas between the conditions causing the error. I googled how if statement's take on multiple conditions in a single function, then I remembered the OR operator, I was hoping I wouldn't have to use 'card' for every new condition, turns out I did, new code below that passed the test:
+    <pre><code>var count = 0;
+    function cc(card) {
+    if (card == 2 || card == 3 || card == 4 || card == 5 || card == 6) {
+      count = count + 1;
+    }
+    else if (card == 7 || card == 8 || card == 9) {
+      count = count + 0; 
+    }
+    else if (card == 10 || card == 'J' || card == 'Q' || card == 'K' || card == 'A') {
+      count = count - 1;
+    }
+    return count + (count > 0 ? " Bet" : " Hold");
+    }
+    cc(2); cc(3); cc(7); cc('K'); cc('A'); </pre></code>
+  - Fixing Record Collection error in understanding:
+    - Watched [freeCodeCamp Record Collection Challenge JavaScript](https://www.youtube.com/watch?v=oBn68Ytmml0) to see if I had an error of interpretation. Observed errors in my code like the use of 'return' (unsure why I shouldn't have used it here), as well as, my use of dot notation in the '.hasOwnProperty' function. The code cleared the test when I removed these. See code below:
+       <pre><code>function updateRecords(records, id, prop, value) {
+        if (prop !== "tracks" && value !== "") {
+          records[id][prop] = value;
+      }
+      else if (prop === "tracks" && records[id].hasOwnProperty("tracks") === false) {
+          records[id][prop] = [value];
+      }
+      else if (prop === "tracks" && value !== "") {
+          records[id][prop].push(value);
+      }
+      else if (value === "") {
+        delete records[id][prop];
+      }
+      return records;
+      }
+      updateRecords(recordCollection, 5439, 'artist', 'ABBA');  </pre></code>
+  - Did further research on loop recursion: good for when you don't know how many of something there are. Watched [Best Javascript Recursion Explanation on YouTube](https://www.youtube.com/watch?v=LteNqj4DFD8) on YouTube, who explained it well. I understoof how it worked on his example, but not how it works with mine - will go over with TL.
 - Continued JavaScript Algorithms and Data Structures
     - XX% into Basic Javascript
 
 - Mistake tracker:
 Subject | Mistake
     --- | ---
+   Loops| Using recursion: So this one was interesting, I figured it out on my own, but don't feel entirely confidet about how. The example was a multiply, and ours was a sum; I knew to change the last line of code to a plus, then I had to alter the return function to 0 instead of the 1 from the example. That just felt right, but I can't explain why. [See example code, and solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/LoopRecursion.js)
+   Profile Lookup| I had a go at this on my own but found myself lost and unsure of the right approach. It's not coming very organically to me atm, reading their instructions and creating code to mimic it. Though when it's explained in a video I get it, I just struggle to know what's the right approach. I watched [Profile Lookup - Free Code Camp](https://www.youtube.com/watch?v=CY57uiOsi-0) which was helpful because I was able to watch his thought process as he solved it. [Solution here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/Profile-Lookup.js).
+   
 
  TODAYS HOURS:    hours   mins 
