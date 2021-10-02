@@ -25,6 +25,6 @@ console.log(sum([2, 4, 6, 8, 10], ))
         return sum ([2, 4, 6, 8, 10], 2)  + 6;
           return sum ([2, 4, 6, 8, 10], 2 - 1) + 6;
           return sum ([2, 4, 6, 8, 10], 1) + 4 (+ 6 );
-            return sum ([ 2, 4, 6, 8, 10], 1 - 1) + 2 (+ 4 + 6)
-              return sum ([2, 4, 6, 8, 10], 0) (+2 +4 +6)
-                return 2 + 4 + 6 = 12
+            return sum ([ 2, 4, 6, 8, 10], 1 - 1) + 2 (+ 4 + 6);
+              return sum ([2, 4, 6, 8, 10], 0) (+2 +4 +6); // As per the above function, line 15 & 16 dictate that this 'sum ([2, 4, 6, 8, 10], 0)' now becomes 0.
+                return 2 + 4 + 6 = 12 // sum ([2, 4, 6, 8, 10], 0) is removed from the flow here as above.
