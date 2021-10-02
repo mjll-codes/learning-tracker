@@ -50,3 +50,5 @@ for (var i = 0; i < contacts.length; i += 1) {
  }
 }
  return "No such contact";
+    
+lookUpProfile("Akira", "likes");
