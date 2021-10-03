@@ -132,3 +132,19 @@ Subject | Mistake
   - When looking through an array of objects, use a FOR loop as it allows you to use the 'i' to run through the index (i++). 
 
  TODAYS HOURS: 5 hours  33 mins 
+
+
+### Sunday, October 3, 2021
+- Continued JavaScript Algorithms and Data Structures
+    - Finished Basic Javascript
+    - Started ES6
+      - 19% into ES6   
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+   Recursion | Use Recursion to Create a Countdown: Got the code almost perfect, just had to adjust from a .push() statement to a .unshift() statement to ensure the numbers descended instead of ascended. 
+   Recursion | Use Recursion to Create a Range of Numbers: I figured this one out on my own, and I'm very proud. After about 10 minutes of trial and error and constantly attempting to understand the code and my mistakes, I landed on the fix and completed it on my own. [See instructions and final code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/RecursionRange.js)
+
+
+ TODAYS HOURS: 1 hour  7 mins 
