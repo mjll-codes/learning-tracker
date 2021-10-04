@@ -148,3 +148,20 @@ Subject | Mistake
 
 
  TODAYS HOURS: 1 hour  7 mins 
+ 
+ 
+ ### Monday, October 4, 2021
+- Continued JavaScript Algorithms and Data Structures
+    - 52% into ES6   
+- Watched [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o) which was interesting.
+- Watched [The Most Difficult Program to Compute? - Computerphile](https://www.youtube.com/watch?v=i7sm9dzFtEI&t=0s) which was also interesting. Loved how passionate he was about the undefinable arguments.
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+   Default Parameters | Set Default Parameters for Your Functions: had to fiddle around with the code for under 5 mins to eventually find the right combination of syntax. Got there in the end though. 
+   Destructuring Assignment | Use Destructuring Assignment to Assign Variables from Arrays: I could not figure out for the life of me, what the right response to this exercise was. The example they provided did not serve as a guide at all. After some googling I found [Destructuring assignment on Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) which quickly lead me to the solution needed. Frustrating nonetheless. 
+   Destructuring Assignment | Use Destructuring Assignment to Pass an Object as a Function's Parameters: Another example of their sample code being seemingly irrevelevant to the answers they're seeking. Watched [ES6 - Use Destructuring Assignment to Pass an Object as a Function's Parameters - Free Code Camp](https://www.youtube.com/watch?v=rM6UybMtViw) for a solution. 
+
+
+ TODAYS HOURS: 1 hour  41 mins 
