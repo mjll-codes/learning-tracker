@@ -165,3 +165,16 @@ Subject | Mistake
 
 
  TODAYS HOURS: 1 hour  41 mins 
+ 
+  ### Tuesday, October 5, 2021
+- Continued JavaScript Algorithms and Data Structures
+    - 65% into ES6   
+      - Researched <i> Template Literals </i> in ES6 to complete said section, [using Mozilla explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals).
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+   Template Literals | [Create Strings using Template Literals](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals): I found this exercise hard. I felt like I was drowning when it asked me to choose my own iteration (though it turned out my instinct to use a for loop was accurate). When reading the instructions I just felt like I had no idea how to make what they were asking for happen - [see my inital code, and the solution code here](https://github.com/mjll-codes/learning-tracker/tree/main/learning-outcomes/template-iteration.js). This code doesn't include my attempts with for loops, so you'll have to take my word for that. I ended up getting the final result from YouTube video, [ES6 - Create Strings using Template Literals - Free Code Camp](https://www.youtube.com/watch?v=zDDXzS6oWDk) - mind you, his solution was much simpler than I thought it was going to be and left me feeling a little sad that I didn't think of it. Also frustrated that I wouldn't have thought at all to use a .push() statement here. 
+
+
+ TODAYS HOURS: 1 hour  17 mins 
