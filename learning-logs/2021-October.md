@@ -1,6 +1,7 @@
-# October 2021
+# October 2021 <a name="top"></a>
+<div style="text-align: right"><a href="#TODAY"> Jump to today</a></div>
 
-## Objectives and Key Results
+## Objectives and Key Results 
 
 ### Objective
 - [ ] Continue FreeCodeCamp (FCC) (JavaScript Algorithms and Data Structures)
@@ -178,3 +179,33 @@ Subject | Mistake
 
 
  TODAYS HOURS: 1 hour  17 mins 
+
+  ### Wednesday, October 9, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures
+    - Finished ES6   
+    - Started Regular Expressions
+      - 27% into Regular Expressions
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+   Getter & Setter | [Use getters and setters to Control Access to an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object): What I found frustrating about this exercise was me not knowning whether or not the examples are strict samples of what my code should look like, or if I'm expected to throw in other things I've learnt - this seems to vary from lesson to lesson. This was another one where I had to get help, found out my approach was similar but also not close at all. I'm not confident on how to code with math yet. 
+   RegEx | [Using the Test Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method): Minor errors. I didn't know to use 'let' before a result to get the answer they wanted.
+   <pre><code>My Solution:
+    let myString = "Hello, World!";
+    let myRegex = /Hello/;
+    myRegex.test(myString); // Change this line
+
+  Their solution:
+    let myString = "Hello, World!";
+    let myRegex = /Hello/;
+    let result = myRegex.test(myString); // Change this line</code></pre>
+   
+- Thoughts:
+  - Feeling like the constant frustration of not succeeding is wearing me down a little. I need a certain amount of wins to sustain motivation and this section of this course is frustrating. I think what's most confusing it when they don't stipulate what they need, they throw things in that aren't needed to solve their puzzle, and the layout of their example doesn't match the layout they're after. It would be nice if the course focused on developing the necessary intuition needed to complete their puzzles.
+  - In an odd conincidence, I flew through the last 35% of ES6. Those wins felt good.  
+
+
+ TODAYS HOURS:  hour   mins 
+ 
+ <a href="#top">Back to top</a>
