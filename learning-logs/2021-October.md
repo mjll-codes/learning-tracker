@@ -190,7 +190,7 @@ Subject | Mistake
 Subject | Mistake
     --- | ---
    Getter & Setter | [Use getters and setters to Control Access to an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object): What I found frustrating about this exercise was me not knowning whether or not the examples are strict samples of what my code should look like, or if I'm expected to throw in other things I've learnt - this seems to vary from lesson to lesson. This was another one where I had to get help, found out my approach was similar but also not close at all. I'm not confident on how to code with math yet. 
-   RegEx | [Using the Test Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method): Minor errors. I didn't know to use 'let' before a result to get the answer they wanted.
+   RegEx | [Using the Test Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method): Minor errors. I didn't know to use 'let' before a result to get the answer they wanted. See code below:
    <pre><code>My Solution:
     let myString = "Hello, World!";
     let myRegex = /Hello/;
@@ -206,6 +206,6 @@ Subject | Mistake
   - In an odd conincidence, I flew through the last 35% of ES6. Those wins felt good.  
 
 
- TODAYS HOURS:  hour   mins 
+ TODAYS HOURS: 1 hour 16 mins 
  
  <a href="#top">Back to top</a>
