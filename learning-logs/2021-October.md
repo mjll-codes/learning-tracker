@@ -206,6 +206,6 @@ Subject | Mistake
   - In an odd conincidence, I flew through the last 35% of ES6. Those wins felt good.  
 
 
- TODAYS HOURS: 1 hour 16 mins 
+ TODAYS HOURS: 2 hour 46 mins 
  
  <a href="#top">Back to top</a>
