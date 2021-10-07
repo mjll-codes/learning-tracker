@@ -180,7 +180,7 @@ Subject | Mistake
 
  TODAYS HOURS: 1 hour  17 mins 
 
-  ### Wednesday, October 9, 2021 <a name="TODAY"></a>
+  ### Wednesday, October 6, 2021 
 - Continued JavaScript Algorithms and Data Structures
     - Finished ES6   
     - Started Regular Expressions
@@ -207,5 +207,18 @@ Subject | Mistake
 
 
  TODAYS HOURS: 2 hour 46 mins 
+ 
+   ### Thursday, October 7, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures  
+    - Continued Regular Expressions
+      - 67% into Regular Expressions
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+   RegEx | [Match Characters that Occur One or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times): More interesting than an error, I noted that when we introducted the + character, it removed the square bracket requirements needed in ranges. Interesting.
+   RegEx | [Match Characters that Occur Zero or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times): This one was interesting, had to remove the global (g) and ignoreCase (i) flags (which I did after one error message). Though not entirely sure why. 
+
+ TODAYS HOURS: 1 hour 51 mins 
  
  <a href="#top">Back to top</a>
