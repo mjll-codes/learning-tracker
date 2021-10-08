@@ -208,7 +208,7 @@ Subject | Mistake
 
  TODAYS HOURS: 2 hour 46 mins 
  
-   ### Thursday, October 7, 2021 <a name="TODAY"></a>
+   ### Thursday, October 7, 2021 
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Regular Expressions
       - 67% into Regular Expressions
@@ -220,5 +220,45 @@ Subject | Mistake
    RegEx | [Match Characters that Occur Zero or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times): This one was interesting, had to remove the global (g) and ignoreCase (i) flags (which I did after one error message). Though not entirely sure why. 
 
  TODAYS HOURS: 1 hour 51 mins 
+ 
+ 
+   ### Friday, October 8, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures  
+    - Continued Regular Expressions
+      - 94% into Regular Expressions
+
+- Mistake tracker:
+Subject | Mistake
+    --- | ---
+   RegEx | [Specify Upper and Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches): Took me about 5-10 mins of trial and error to get this one right. I kept doing variations of /h{3,6}/, then i reread the question very literally and did /(Oh{3,6 no}/ and it worked. Felt good to problem solve that one on my own without additional help. 
+   RegEx | [Positive and Negative Lookahead](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead): Another one that I figured out in 5-10 minutes, my inital solution was as below. The addition of \D* = zero or more of non-number characters, I'm just not sure why that was needed.
+   <pre><code>My initial solution:
+    let sampleWord = "astronaut";
+    let pwRegex = /(?=\w{6,})(?=\d{2})/ig; // Change this line
+    let result = pwRegex.test(sampleWord);
+
+  Solution was:
+    let sampleWord = "astronaut";
+    let pwRegex = /(?=\w{6,})(?=\D*\d{2})/ig; // Change this line
+    let result = pwRegex.test(sampleWord); </pre></code>
+    
+   Subject | Mistake
+   --- | ---
+   RegEx | [Check For Mixed Grouping of Characters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters): Another one that I figured out in about 15 minutes without any external help, my solution as below. It may be able to be written more eloquently, I'm just proud I did this without needing someone else to explain it to me. 
+   <pre><code>My solution:
+    let myString = "Eleanor Roosevelt";
+    let myRegex = /((Franklin|Eleanor)\s([A-Z]*)([.]*)\s*(Roosevelt))/; // Change this line
+    let result = myRegex.test(myString); </pre></code>
+
+ Subject | Mistake
+   --- | ---
+   RegEx | [Reuse Patterns Using Capture Groups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups): I did 99% of this solution on my own, got stuck right at the end, figuring out how to stop it from returning true on more than 3 patterns. After watching [Regular Expressions - Reuse Patterns Using Capture Groups - Free Code Camp](https://www.youtube.com/watch?v=xboGcPG6Ifs) right before he fixed it, I figured it out. I needed a caret at the start and a bling at the end. Solution below:
+<pre><code>My solution:
+    let repeatNum = "42 42 42";
+    let reRegex = /^(\d+) \1 \1$/; // Change this line
+    let result = repeatNum.match(reRegex); </pre></code>
+
+
+ TODAYS HOURS: 1 hour 7 mins 
  
  <a href="#top">Back to top</a>
