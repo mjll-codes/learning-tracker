@@ -304,7 +304,7 @@ Subject | Mistake/Win
     }
 
     let matrix = zeroArray(3, 2);
-    console.log(matrix); </pre></code>\
+    console.log(matrix); </pre></code>
 
 
  TODAYS HOURS: 1 hour 6 mins 
