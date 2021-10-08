@@ -250,10 +250,10 @@ Subject | Mistake
     let myRegex = /((Franklin|Eleanor)\s([A-Z]*)([.]*)\s*(Roosevelt))/; // Change this line
     let result = myRegex.test(myString); </pre></code>
 
- Subject | Mistake
-   --- | ---
-   RegEx | [Reuse Patterns Using Capture Groups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups): I did 99% of this solution on my own, got stuck right at the end, figuring out how to stop it from returning true on more than 3 patterns. After watching [Regular Expressions - Reuse Patterns Using Capture Groups - Free Code Camp](https://www.youtube.com/watch?v=xboGcPG6Ifs) right before he fixed it, I figured it out. I needed a caret at the start and a bling at the end. Solution below:
-<pre><code>My solution:
+   Subject | Mistake
+    --- | ---
+    RegEx | [Reuse Patterns Using Capture Groups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups): I did 99% of this solution on my own, got stuck right at the end, figuring out how to stop it from returning true on more than 3 patterns. After watching [Regular Expressions - Reuse Patterns Using Capture Groups - Free Code Camp](https://www.youtube.com/watch?v=xboGcPG6Ifs) right before he fixed it, I figured it out. I needed a caret at the start and a bling at the end. Solution below:
+   <pre><code>My solution:
     let repeatNum = "42 42 42";
     let reRegex = /^(\d+) \1 \1$/; // Change this line
     let result = repeatNum.match(reRegex); </pre></code>
