@@ -222,7 +222,7 @@ Subject | Mistake
  TODAYS HOURS: 1 hour 51 mins 
  
  
-   ### Friday, October 8, 2021 <a name="TODAY"></a>
+   ### Friday, October 8, 2021 
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Regular Expressions
       - 94% into Regular Expressions
@@ -260,5 +260,54 @@ Subject | Mistake
 
 
  TODAYS HOURS: 1 hour 7 mins 
+ 
+ 
+### Saturday, October 9, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures  
+    - Finished Regular Expressions
+    - Finished Debugging
+    - Started Basic Data Structures
+      - 1% into Basic Data Structures
+
+- Mistake tracker:
+Subject | Mistake/Win
+    --- | ---
+   RegEx | [Use Capture Groups to Search and Replace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/use-capture-groups-to-search-and-replace): Another one I problem solved on my own, took me about 10 minutes, but it feels good that I'm able to read and understand the code that I'm writing now.
+   RegEx | [Remove Whitespace from Start and End](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end): Another one that I figured out in 5-10 minutes, my solution below. This one was trial and error and I wonder if the final code could be written more eloquently.
+   <pre><code>My solution:
+    let hello = "   Hello, World!  ";
+    let wsRegex = /(\s+\w+(,)\s\w+(!)\s+)/; // Change this line
+    let changeText = "Hello, World!";
+    let result = hello.replace(wsRegex, changeText); // Change this line
+
+    console.log(result); </pre></code>
+    
+   Subject | Mistake
+   --- | ---
+   Debugging | [Use Caution When Reinitializing Variables Inside a Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop): This one took a little longer (20ish) minutes for me to figure out, and I did need to watch this [YouTube video](https://www.youtube.com/watch?v=WfQhmFsur1U) to help placing the 'let row = [];' section, though my instinct was right. The video helped to reinforce how to read the flow of the code. Solution below.
+   <pre><code>My solution:
+    function zeroArray(m, n) {
+    // Creates a 2-D array with m rows and n columns of zeroes
+    let newArray = [];
+    let row = [];
+    for (let i = 0; i < m; i++) {
+    // Adds the m-th row into newArray
+    let row = [];
+    for (let j = 0; j < n; j++) {
+    // Pushes n zeroes into the current row to create the columns
+    row.push(0);
+    }
+    // Pushes the current row, which now has n zeroes in it, to the array
+    newArray.push(row);
+    }
+    return newArray;
+    }
+
+    let matrix = zeroArray(3, 2);
+    console.log(matrix); </pre></code>\
+
+
+ TODAYS HOURS: 1 hour 6 mins 
+ 
  
  <a href="#top">Back to top</a>
