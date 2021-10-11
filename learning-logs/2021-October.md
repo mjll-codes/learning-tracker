@@ -262,12 +262,12 @@ Subject | Mistake
  TODAYS HOURS: 1 hour 7 mins 
  
  
-### Saturday, October 9, 2021 <a name="TODAY"></a>
+### Saturday, October 9, 2021 
 - Continued JavaScript Algorithms and Data Structures  
     - Finished Regular Expressions
     - Finished Debugging
     - Started Basic Data Structures
-      - 1% into Basic Data Structures
+      - 50% into Basic Data Structures
 
 - Mistake tracker:
 Subject | Mistake/Win
@@ -308,6 +308,58 @@ Subject | Mistake/Win
 
 
  TODAYS HOURS: 1 hour 6 mins 
+ 
+ 
+ ### Monday, October 11, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures  
+    - Continued Basic Data Structures
+      - 1% into Basic Data Structures
+
+- Mistake tracker:
+Subject | Mistake/Win
+    --- | ---
+   Data Structures | [Add Items to an Array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift): I was getting frustrated with this one, as it seemed correct to me, but console kept displaying "mixedNumbers.push() is not a function" - see my initial solution below. Two seconds into a YT video about it, I saw my error and where I have put mixedNumbers.push, should have been arr.push().
+   <pre><code>My solution:
+    function mixedNumbers(arr) {
+      // Only change code below this line
+    mixedNumbers.push(7, "VIII", 9);
+    mixedNumbers.unshift("I", 2, "three");
+      // Only change code above this line
+    return arr;
+    }
+    console.log(mixedNumbers(['IV', 5, 'six']));</pre></code>
+  
+  Data Structures | [Copy Array Items Using slice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice): Ended up getting this one right, after a little trial and errors and trying to figure out where my error was when I knew my code was right. I just forgot to change the return statement to forecast from arr.
+    --- | ---
+   Data Structures | [Copy an Array with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator): When I first read this chellenge, I got a little nervous, thinking "Oh no, another pickle". Imagine my surprise when my inital instincts work in my favour and return the right answers to me in less than a few minutes. Elated! Love a win! Solution code below.
+    <pre><code>My solution:
+    function copyMachine(arr, num) {
+    let newArr = [];
+    while (num >= 1) {
+      // Only change code below this line
+      newArr.push([...arr]);
+      // Only change code above this line
+    num--;
+    }
+    return newArr;
+    }
+    console.log(copyMachine([true, false, true], 2));</pre></code>
+    
+  Data Structures | [Check For The Presence of an Element With indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof): Another win! Felt good to feel like I'm slowly getting used to how and why to use certain things. Got this solution in only a few minutes XD.
+   --- | ---
+    <pre><code>My solution:
+    function quickCheck(arr, elem) {
+      // Only change code below this line
+    if (arr.indexOf(elem) > -1 ) {
+    return true;
+    } else {
+    return false;
+    }
+      // Only change code above this line
+    }
+    console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));</pre></code>
+
+ TODAYS HOURS: 1 hour 1 mins 
  
  
  <a href="#top">Back to top</a>
