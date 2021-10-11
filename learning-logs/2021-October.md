@@ -267,7 +267,7 @@ Subject | Mistake
     - Finished Regular Expressions
     - Finished Debugging
     - Started Basic Data Structures
-      - 50% into Basic Data Structures
+      - 1% into Basic Data Structures
 
 - Mistake tracker:
 Subject | Mistake/Win
@@ -313,7 +313,7 @@ Subject | Mistake/Win
  ### Monday, October 11, 2021 <a name="TODAY"></a>
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Basic Data Structures
-      - 1% into Basic Data Structures
+      - 50% into Basic Data Structures
 
 - Mistake tracker:
 Subject | Mistake/Win
