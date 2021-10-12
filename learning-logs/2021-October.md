@@ -310,7 +310,7 @@ Subject | Mistake/Win
  TODAYS HOURS: 1 hour 6 mins 
  
  
- ### Monday, October 11, 2021 <a name="TODAY"></a>
+ ### Monday, October 11, 2021
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Basic Data Structures
       - 50% into Basic Data Structures
@@ -360,6 +360,20 @@ Subject | Mistake/Win
     console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));</pre></code>
 
  TODAYS HOURS: 1 hour 1 mins 
+ 
+ 
+  ### Tuesday, October 12, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures  
+    - Continued Basic Data Structures
+      - 75% into Basic Data Structures
+
+- Mistake tracker:
+Subject | Mistake/Win
+    --- | ---
+   Data Structures | [Iterate Through All an Array's Items Using For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops): I kept trying to use comparison operators to get the result I wanted but never seemed to be able to work the code. Then I watched a [YT video](https://www.youtube.com/watch?v=FkR9bEBrUTk) and within a few seconds realised he was using indexOf - then I amended my code and it worked. It took me half an hour and was very frustrating. I should know by now to just reference the previous challenge.
+
+
+ TODAYS HOURS: 1 hour 3 mins 
  
  
  <a href="#top">Back to top</a>
