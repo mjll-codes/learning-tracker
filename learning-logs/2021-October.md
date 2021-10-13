@@ -362,7 +362,7 @@ Subject | Mistake/Win
  TODAYS HOURS: 1 hour 1 mins 
  
  
-  ### Tuesday, October 12, 2021 <a name="TODAY"></a>
+  ### Tuesday, October 12, 2021 
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Basic Data Structures
       - 75% into Basic Data Structures
@@ -375,5 +375,54 @@ Subject | Mistake/Win
 
  TODAYS HOURS: 1 hour 3 mins 
  
+ 
+   ### Wednesday, October 13, 2021 <a name="TODAY"></a>
+- Continued JavaScript Algorithms and Data Structures  
+    - Continued Basic Data Structures
+      - XX% into Basic Data Structures
+
+- Mistake tracker:
+Subject | Mistake/Win
+    --- | ---
+   Data Structures | [Check if an Object has a Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property): This solution took me over an hr to problem solve, and I ended up watching a [YT video](https://www.youtube.com/watch?v=S08t6oz00Ew). The YT solution was no longer exactly accurate and I had to make minor adjustments. See solution code below. I think I found this one frustrating because although I knew there was an 'if' statement in there, I wouldn't have thought to make an array then iterate through it to create a match. My instincts wanted me to just so "if (userObj === "x", etc) return true" but that didn't work. I figured because the question was saying that the argument has to pass all four parameters that my inital solution was best, turned out not so much. I'm also not sure why he change the final parameter in the for loop to i += 1 instead of i ++?
+   <pre><code>My solution:
+    let users = {
+      Alan: {
+        age: 27,
+        online: true
+    },
+      Jeff: {
+        age: 32,
+        online: true
+    },
+      Sarah: {
+        age: 48,
+        online: true
+    },
+      Ryan: {
+        age: 19,
+        online: true
+    }
+   };
+
+  function isEveryoneHere(userObj) {
+    // Only change code below this line
+  let everyone = ['Alan', 'Jeff', 'Sarah', 'Ryan']; 
+
+  for (let i=0; i < everyone.length; i+= 1) {
+  let student = everyone[i];
+  if (userObj.hasOwnProperty(student) === false) {
+  return false;
+    } 
+  } return true;
+  }
+
+    // Only change code above this line
+
+
+  console.log(isEveryoneHere(users));</pre></code>
+
+
+ TODAYS HOURS: 1 hour 25 mins 
  
  <a href="#top">Back to top</a>
