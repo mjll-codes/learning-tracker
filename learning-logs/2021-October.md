@@ -379,7 +379,7 @@ Subject | Mistake/Win
    ### Wednesday, October 13, 2021 <a name="TODAY"></a>
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Basic Data Structures
-      - XX% into Basic Data Structures
+      - 85% into Basic Data Structures
 
 - Mistake tracker:
 Subject | Mistake/Win
