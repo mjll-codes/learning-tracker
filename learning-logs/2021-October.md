@@ -486,8 +486,10 @@ Correct solution:
     reverseString("hello"); <stop>
     </pre></code>
 
+
+Subject | Mistake/Win
 --- | ---
- Basic Algorithm Scripting | [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number): It seems they've moved into giving us challenges with no examples, and just slight references to what they want. I feel ill equipt to deal with this and I find myself seeking the answers online and it doesn't feel like I'm learning anything. Very annoying. For this specific exercise, I had the right idea (if else statements), I was just unsure of how to properly execute it. 
+Basic Algorithm Scripting | [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number): It seems they've moved into giving us challenges with no examples, and just slight references to what they want. I feel ill equipt to deal with this and I find myself seeking the answers online and it doesn't feel like I'm learning anything. Very annoying. For this specific exercise, I had the right idea (if else statements), I was just unsure of how to properly execute it. 
  Basic Algorithm Scripting | [Find the Longest Word in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string): Another one where I had to work with a UP video to get the flow, though I had a lot of the elements on my own (iteration and the use of split()). I'm not feeling very confident in my ability to apply these methods to a problem in the correct manner. Though going through it with [Useful Programmer](https://www.youtube.com/channel/UCAocVBB14ixYUfdhKaSrvNQ) is helpful as he makes the flow seem simple and reaffirms my instincts. 
 
  TODAYS HOURS: 2 hours 22 mins 
