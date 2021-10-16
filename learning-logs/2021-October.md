@@ -424,7 +424,7 @@ Subject | Mistake/Win
 - Continued JavaScript Algorithms and Data Structures  
     - Finished Basic Data Structures
     - Started Basic Algorithm Scripting
-      - XX% into Basic Algorithm Scripting
+      - 25% into Basic Algorithm Scripting
 
 - Mistake tracker:
 Subject | Mistake/Win
@@ -464,8 +464,32 @@ Subject | Mistake/Win
 Subject | Mistake/Win
 --- | ---
 Data Structures | [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object): Another one where my inital solution is correct, I'm just missing the return statement at the end. I'm using console.log to check and I think that I keep forgetting to use return.
-    
+Basic Algorithm Sctipting | [Reverse a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string): Another one that I attempted to approach using iteration and unshift(), thereby returning each letter back to the begnning of the array in reverse. Then when I YT'd the soultion it was very simple but used 3 methods (?) I've never seen before, so I felt a little played by this one. Code below:
+<pre><code>My soltion:
 
- TODAYS HOURS:  hour  mins 
+  function reverseString(str) {
+    for (var i = 0; i < str.length; i++) {
+      if (i != "") {
+        return reverseString.unshift(str[i]);
+      }
+    }  
+    return str;
+    }
+
+    reverseString("hello");
+
+Correct solution:
+
+   function reverseString(str) {
+      return str.split("").reverse().join("");
+    }
+    reverseString("hello"); <stop>
+    </pre></code>
+
+--- | ---
+ Basic Algorithm Scripting | [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number): It seems they've moved into giving us challenges with no examples, and just slight references to what they want. I feel ill equipt to deal with this and I find myself seeking the answers online and it doesn't feel like I'm learning anything. Very annoying. For this specific exercise, I had the right idea (if else statements), I was just unsure of how to properly execute it. 
+ Basic Algorithm Scripting | [Find the Longest Word in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string): Another one where I had to work with a UP video to get the flow, though I had a lot of the elements on my own (iteration and the use of split()). I'm not feeling very confident in my ability to apply these methods to a problem in the correct manner. Though going through it with [Useful Programmer](https://www.youtube.com/channel/UCAocVBB14ixYUfdhKaSrvNQ) is helpful as he makes the flow seem simple and reaffirms my instincts. 
+
+ TODAYS HOURS: 2 hours 22 mins 
  
  <a href="#top">Back to top</a>
