@@ -376,7 +376,7 @@ Subject | Mistake/Win
  TODAYS HOURS: 1 hour 3 mins 
  
  
-   ### Wednesday, October 13, 2021 <a name="TODAY"></a>
+   ### Wednesday, October 13, 2021 
 - Continued JavaScript Algorithms and Data Structures  
     - Continued Basic Data Structures
       - 85% into Basic Data Structures
@@ -389,40 +389,83 @@ Subject | Mistake/Win
     let users = {
       Alan: {
         age: 27,
-        online: true
-    },
+        online: true},
       Jeff: {
         age: 32,
-        online: true
-    },
+        online: true},
       Sarah: {
         age: 48,
-        online: true
-    },
+        online: true},
       Ryan: {
         age: 19,
-        online: true
-    }
-   };
+        online: true}
+        };
 
   function isEveryoneHere(userObj) {
     // Only change code below this line
   let everyone = ['Alan', 'Jeff', 'Sarah', 'Ryan']; 
 
-  for (let i=0; i < everyone.length; i+= 1) {
-  let student = everyone[i];
-  if (userObj.hasOwnProperty(student) === false) {
-  return false;
-    } 
-  } return true;
+  for (let i = 0; i < everyone.length; i += 1) {
+    let student = everyone[i]; <stop>
+      if (userObj.hasOwnProperty(student) === false) {
+        return false;
+        } 
+      } return true;
   }
-
     // Only change code above this line
-
-
-  console.log(isEveryoneHere(users));</pre></code>
-
+  console.log(isEveryoneHere(users));
+  </pre></code>
 
  TODAYS HOURS: 1 hour 25 mins 
+ 
+ 
+### Saturday, October 16, 2021 <a name="TODAY"></a>
+
+- Continued JavaScript Algorithms and Data Structures  
+    - Finished Basic Data Structures
+    - Started Basic Algorithm Scripting
+      - XX% into Basic Algorithm Scripting
+
+- Mistake tracker:
+Subject | Mistake/Win
+    --- | ---
+   Data Structures | [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement): This one is another one that had me working on it for a long before I conceded I needed help. All the concepts they were after seemed familiar but I was stumped on how to make the log return a count/number. Eventually I went to YT and watched [this video](https://www.youtube.com/watch?v=-DGQF-_bV0k). Frustratingly, his solution was very similar to my original work, I was using online as the first parameter in the for..in statement, I lengthened out the if statement and forgot the return function at the end. See below.
+   <pre><code>His solution: 
+   function countOnline(usersObj) {
+      // Only change code below this line
+      let onlineUsers = 0;
+
+      for (let user in usersObj ){
+        console.log(user);
+        if (usersObj[user]["online"]) {
+          onlineUsers += 1;    
+          }
+        }
+
+       return onlineUsers;
+        // Only change code above this line
+       }
+       
+    My solution: 
+    function countOnline(usersObj) {
+        // Only change code below this line
+          let onlineUsers = 0;
+
+          for (let online in usersObj ){
+            console.log(usersObj.online);
+          if (usersObj.user.online === true) {
+            onlineUsers += 1;    
+            }
+            }
+        // Only change code above this line
+        }</pre></code>
+        
+
+Subject | Mistake/Win
+--- | ---
+Data Structures | [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object): Another one where my inital solution is correct, I'm just missing the return statement at the end. I'm using console.log to check and I think that I keep forgetting to use return.
+    
+
+ TODAYS HOURS:  hour  mins 
  
  <a href="#top">Back to top</a>
